@@ -1,0 +1,5 @@
+Como compilar y ejecutar el proyecto.
+En la terminal del server:          $ make
+                                    $ .\serverGame 5000
+
+En las terminales de los clientes:  $ .\clientGame 127.0.0.1 5000
